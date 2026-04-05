@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Arth Agrawal
 
-### 🎓 Incoming MS in Data Science @ Columbia University (Fall 2026)
+AI Research Engineer | Specialized in Medical Imaging, Audio Forensics, and Agentic RAG Systems.
 
-**AI Research Engineer** Specialized in **Medical Imaging**, **Audio Forensics**, and **Agentic RAG Systems** **B.Tech in Computer Science** *VIT Vellore (2022-2026)* **Masters in Data Science** *Columbia University (2026-2027)* ---
+Undergrad: Computer Science, VIT Vellore (2022-2026)
+
+Masters: Data Science, Columbia University (2026-2027)
 
 ### Technical Ecosystem
 

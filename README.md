@@ -44,6 +44,5 @@
 
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/arth-agrawal-07b263250) | [Email](mailto:arthagrawal21@gmail.com) | [Scholar](https://scholar.google.com)
+[LinkedIn](https://www.linkedin.com/in/arth-agrawal-07b263250) | [Email](mailto:arthagrawal21@gmail.com) |
 
-*"Bridging the gap between isolated research and scalable AI products."*

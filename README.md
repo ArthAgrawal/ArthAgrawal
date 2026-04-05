@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Arth Agrawal
 
-### 🎓 Incoming MS in Data Science @ Columbia University (Fall 2026)
-**AI Engineer & Systems Architect** | Building end-to-end products at the intersection of Computer Vision, NLP, and Agentic Workflows.
-
+I am an AI developer with a strong passion for the applications of AI in healthcare and fintech. 
+Undergrad: Computer Science, VIT Vellore 2022-2026
+Masters: Data Science, Columbia University 2026-2027
 ---
 
-### 🚀 Technical Focus
-- **Generative AI:** RAG Pipelines, Knowledge-Grounded QA, Agentic Reasoning (LangChain, Rasa).
-- **Computer Vision:** CNN-based Image Classification, OOD Detection, Advanced Augmentation (Albumentations).
-- **Systems Engineering:** Scalable API Deployment (FastAPI, Flask), Model Optimization, Data Engineering.
+### Technical Focus
+- **Generative AI:** RAG Pipelines, Knowledge-Grounded QA, Agentic Reasoning
+- **Computer Vision:** CNN-based Image Classification, OOD Detection, Advanced Augmentation (Albumentations)
+- **Systems Engineering:** Scalable API Deployment (FastAPI, Flask), Model Optimization, Data Engineering
 
 ---
 
@@ -22,7 +22,6 @@
 
 **AI Operations & Deployment:**
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-000000?style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -30,26 +29,31 @@
 
 ### 🌟 Featured Work
 
-#### 🌾 [Crop Disease Intelligence Platform](https://github.com/ArthAgrawal/repo-link)
-* **The Build:** A full-stack AgTech solution integrating **CNNs** for disease detection and **LSTMs** for price prediction.
-* **Key Feature:** Implemented an **Out-of-Distribution (OOD)** pipeline to ensure model reliability in real-world agricultural environments.
-* **Impact:** Multilingual accessibility for farmers with automated dataset engineering.
+#### [CerebralNet: Brain Tumor Research Paper](https://github.com/ArthAgrawal/Brain-Tumor-Research-Paper)
 
-#### 🧠 [Agentic RAG & Knowledge Systems](https://github.com/ArthAgrawal/repo-link)
-* **The Build:** Architected RAG pipelines that transform unstructured data (LinkedIn/Docs) into actionable embeddings.
-* **Innovation:** Combined **Rasa** (rule-based) with **LLM-based reasoning** for robust, context-aware chatbot deployments.
+* **The Research:** [Read the full paper here](https://www.sciencedirect.com/science/article/abs/pii/S1746809425007219?dgcid=coauthor)
+* **The Build:** Developed a brain tumor classification framework using **Deep Convolutional Neural Networks (CNNs)** with an Atrous MobileNet backbone with ASPP integrated layer
+* **Key Work:** Focused on **model architecture design, dataset handling, and performance optimization**, including training stability and evaluation across multiple classes, and explainability using LIME
+* **Impact:** Aimed at improving automated tumor classification accuracy as a step toward reliable AI-assisted medical imaging systems
+
+#### [Deepfake Audio Detection](https://github.com/ArthAgrawal/Audio-Forensics-Research)
+
+* **The Research:** [Read the full paper here](https://ieeexplore.ieee.org/abstract/document/11039608)
+* **The Build:** Developed an audio classification framework using deep learning models to distinguish between genuine and spoofed (synthetic) speech signals
+* **Key Work:** Focused on **audio preprocessing, feature extraction (e.g., MFCCs / spectrograms), and model evaluation**, ensuring performance across different spoofing techniques
+* **Impact:** Aimed at improving the reliability and security of speech-based systems by detecting manipulated or synthetic audio inputs
+
+
+#### 🤖 [Advanced Agentic RAG & Knowledge Systems](https://github.com/ArthAgrawal/Basic_RAG)
+* **The Build:** Architected a modular RAG pipeline designed for high-precision retrieval from complex, unstructured PDF datasets (e.g., Financial/Legal docs).
+* **Technical Innovation:**
+    * **Semantic Chunking:** Moved beyond fixed-sized windows to context-aware splitting, ensuring coherent embedding generation.
+    * **Multi-Step Retrieval:** Implemented **Query Expansion** (generating multiple search perspectives) to capture broader context.
+    * **Neural Reranking:** Integrated a **Cross-Encoder** scoring layer to re-evaluate the top-$k$ results, significantly reducing "Hallucinations."
+* **Stack:** Python, LangChain, FAISS, PyMuPDF, Sentence-Transformers (Cross-Encoders).
 
 ---
 
-### 📊 GitHub Insights
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Arth's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+### Let's Connect
+[LinkedIn](https://www.linkedin.com/in/arth-agrawal-07b263250) | [Email](arthagrawal21@gmail.com) | 
 
----
-
-### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Email](mailto:YOUR_EMAIL@example.com) | [Portfolio](#)
-
-*"Transitioning from isolated models to scalable AI products."*

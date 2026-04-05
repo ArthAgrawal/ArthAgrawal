@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arth Agrawal
 
-AI Research Engineer | Specialized in Medical Imaging, Audio Forensics, and Agentic RAG Systems.
+AI Research Engineer | Specialized in Medical Imaging, Audio Forensics, and Agentic RAG Systems |
 
 Undergrad: Computer Science, VIT Vellore (2022-2026)
 

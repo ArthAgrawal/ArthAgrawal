@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Technical Ecosystem
+###  Technical Ecosystem
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -17,21 +17,21 @@
 
 ---
 
-### 🌟 Featured Research & Projects
+###  Featured Research & Projects
 
-#### 🧠 [CerebralNet: Multi-Class Brain Tumor Classification](https://github.com/ArthAgrawal/Brain-Tumor-Research-Paper)
+####  [CerebralNet: Multi-Class Brain Tumor Classification](https://github.com/ArthAgrawal/Brain-Tumor-Research-Paper)
 > **Publication:** [Biomedical Signal Processing and Control (ScienceDirect)](https://www.sciencedirect.com/science/article/abs/pii/S1746809425007219?dgcid=coauthor)
 
 * **The Build:** Developed a CNN framework with an **Atrous MobileNet backbone** and **ASPP integrated layers** for high-precision tumor segmentation.
 * **Innovation:** Integrated **LIME (Local Interpretable Model-agnostic Explanations)** to provide clinical explainability for tumor classification.
 
-#### 🎙️ [Deepfake Audio Forensic Detection](https://github.com/ArthAgrawal/Audio-Forensics-Research)
+####  [Deepfake Audio Forensic Detection](https://github.com/ArthAgrawal/Audio-Forensics-Research)
 > **Publication:** [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11039608)
 
 * **The Build:** Architected a deep learning pipeline to distinguish between genuine and synthetic (spoofed) speech signals.
 * **Key Work:** Optimized feature extraction using **MFCCs** and **Spectrogram analysis** to ensure robustness against various spoofing attacks.
 
-#### 🤖 [Advanced Agentic RAG & Knowledge Systems](https://github.com/ArthAgrawal/Basic_RAG)
+####  [Advanced Agentic RAG & Knowledge Systems](https://github.com/ArthAgrawal/Basic_RAG)
 > **Technical Stack:** LangChain, FAISS, PyMuPDF, Sentence-Transformers
 
 * **The Build:** A production-grade RAG pipeline for extracting insights from complex, unstructured PDF datasets.
@@ -42,15 +42,8 @@
 
 ---
 
-### 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthAgrawal&show_icons=true&theme=radical" alt="Arth's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthAgrawal&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
 
----
-
-### 📫 Connect with me
+### Connect with me
 [LinkedIn](https://www.linkedin.com/in/arth-agrawal-07b263250) | [Email](mailto:arthagrawal21@gmail.com) | [Scholar](https://scholar.google.com)
 
 *"Bridging the gap between isolated research and scalable AI products."*

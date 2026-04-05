@@ -1,51 +1,55 @@
-# 👋 Hi, I'm Arth!
+# 👋 Hi, I'm Arth Agrawal
 
 ### 🎓 Incoming MS in Data Science @ Columbia University (Fall 2026)
-Focused on building **Agentic AI** and **High-Performance RAG Pipelines**. Currently exploring the intersection of **Fintech** and **Audio Forensic Deep Learning**.
+**AI Engineer & Systems Architect** | Building end-to-end products at the intersection of Computer Vision, NLP, and Agentic Workflows.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🚀 Technical Focus
+- **Generative AI:** RAG Pipelines, Knowledge-Grounded QA, Agentic Reasoning (LangChain, Rasa).
+- **Computer Vision:** CNN-based Image Classification, OOD Detection, Advanced Augmentation (Albumentations).
+- **Systems Engineering:** Scalable API Deployment (FastAPI, Flask), Model Optimization, Data Engineering.
 
-**Core AI & Data Science:**
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**RAG & LLM Ops:**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+**AI Operations & Deployment:**
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-000000?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-VectorDB-blueviolet?style=for-the-badge)
-
-**Infrastructure:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Featured Work
 
-#### 🏦 [Advanced Fintech RAG System](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
-* **Problem:** Standard RAG fails at global document summarization.
-* **Solution:** Implemented a **Router-Based Agent** that switches between Vector Retrieval (FAISS) for specific facts and Long-Context processing for global summaries.
-* **Tech:** Python, Cross-Encoders, PyMuPDF, OpenAI.
-* **License:** MIT
+#### 🌾 [Crop Disease Intelligence Platform](https://github.com/ArthAgrawal/repo-link)
+* **The Build:** A full-stack AgTech solution integrating **CNNs** for disease detection and **LSTMs** for price prediction.
+* **Key Feature:** Implemented an **Out-of-Distribution (OOD)** pipeline to ensure model reliability in real-world agricultural environments.
+* **Impact:** Multilingual accessibility for farmers with automated dataset engineering.
 
-#### 🎙️ [Audio Deepfake Detection Framework](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
-* **Details:** Built an end-to-end detection pipeline using **LSTMs and Transformers** trained on the ASVspoof dataset to identify synthetic speech patterns.
-* **Key Insight:** Utilized spectrogram interpretation for forensic feature extraction.
+#### 🧠 [Agentic RAG & Knowledge Systems](https://github.com/ArthAgrawal/repo-link)
+* **The Build:** Architected RAG pipelines that transform unstructured data (LinkedIn/Docs) into actionable embeddings.
+* **Innovation:** Combined **Rasa** (rule-based) with **LLM-based reasoning** for robust, context-aware chatbot deployments.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Arth's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Arth's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_URL) | [Portfolio](https://YOUR_WEBSITE_URL) | [Email](mailto:YOUR_EMAIL@example.com)
+### 📫 Let's Connect
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Email](mailto:YOUR_EMAIL@example.com) | [Portfolio](#)
+
+*"Transitioning from isolated models to scalable AI products."*

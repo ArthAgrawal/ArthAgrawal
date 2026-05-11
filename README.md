@@ -31,10 +31,9 @@
 * **The Build:** Architected a deep learning pipeline to distinguish between genuine and synthetic (spoofed) speech signals.
 * **Key Work:** Optimized feature extraction using **MFCCs** and **Spectrogram analysis** to ensure robustness against various spoofing attacks.
 
-####  [Advanced Agentic RAG & Knowledge Systems](https://github.com/ArthAgrawal/Basic_RAG)
-> **Technical Stack:** LangChain, FAISS, PyMuPDF, Sentence-Transformers
+####  [Production RAG Chatbot for a Health & Wellness Brand](https://github.com/ArthAgrawal/AncestralAI-v1)
 
-* **The Build:** A production-grade RAG pipeline for extracting insights from complex, unstructured PDF datasets.
+* **The Build:** A production-grade agentic RAG system designed to answer domain-specific customer queries with verified, sourced responses.
 * **Technical Innovation:**
     * **Semantic Chunking:** Context-aware splitting to preserve document coherence.
     * **Query Expansion:** Multi-perspective retrieval to capture broader context.
